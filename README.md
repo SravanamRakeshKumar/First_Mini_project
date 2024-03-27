@@ -170,7 +170,7 @@
         align-items:center;
 
       }
-      #in
+  #in
 {
   width:550px;
   height:550px;
